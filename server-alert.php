@@ -8,23 +8,7 @@
 	$serverlist = array(
 						"Test APP"=>array("dev3-app","34.126.108.217","dev3-app-test.pem"),
 						"Test-php74 DB"=>array("test-php74","35.213.188.143","test-php74.pem"),				
-					/*	"AW APP"=>array("AW-APP","54.169.17.143"),
-						"AW DB"=>array("AW-DB","18.141.11.178"),
-						"AW3 APP"=>array("AW3-APP","35.240.196.170"),
-						"AW3 DB"=>array("AW3-DB","35.185.176.109"),
-						"CLAIM-PORTAL APP"=>array("CLAIM-PORTAL","52.77.128.80"),
-						"MMU APP"=>array("MMU-APP","49.236.203.141"),
-						"MMU DB"=>array("MMU-DB","49.236.203.140"),
-						"WEBLIVE APP"=>array("WEB-LIVE","34.87.10.172"),
-						"WEB-STAGING APP"=>array("WEB-STAGING","35.247.153.111"),
-						"DEV APP"=>array("DEV-APP","13.228.169.218"),
-						"DEV DB"=>array("DEV-DB","18.140.64.106"),
-						"DEV3 APP"=>array("DEV3-APP","35.198.205.86"),
-						"DEV3 DB"=>array("DEV3-DB","34.87.91.7"),
-						"TRIAL APP"=>array("TRIAL-APP","35.198.197.223"),
-						"TRIAL DB"=>array("TRIAL-DB","35.234.196.120"),
-						"GET-PORTAL APP"=>array("GET-PORTAL","35.240.232.72"),
-	"CRON-MGR APP"=>array("CRON-MGR","35.240.250.125")*/);
+					);
 
 	$output	    = array();	
 
